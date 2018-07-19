@@ -24,11 +24,11 @@
 ## Cursos
 ### Basicos
 > #### En Python
-> * [Free] [Básico] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-> * [Free] [Básico] [EdX: Machine Learning Fundamentals](hhttps://www.edx.org/es/course/machine-learning-fundamentals)
-> * [Free] [Básico] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
-> * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-> * Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
+> * [Free] [Básico] [Inglés] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+> * [Free] [Básico] [Inglés] [EdX: Machine Learning Fundamentals](hhttps://www.edx.org/es/course/machine-learning-fundamentals)
+> * [Free] [Básico] [Inglés] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
+> * [Free] [Básico] [Inglés] [Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+> * [Free] [Básico] [Inglés] [Caltech: Learning From Data (Introductory Machine Learnig](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 > * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
 > * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
 > * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
