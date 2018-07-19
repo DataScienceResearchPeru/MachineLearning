@@ -23,6 +23,7 @@
 # Listado
 ## Cursos
 ### Basicos
+> #### En Python
 > * Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
 > * Coursera: https://www.coursera.org/learn/machine-learning
 > * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
