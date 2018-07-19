@@ -45,6 +45,10 @@
 > * [Premium] [Básico] [Inglés] [Udemy: Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
 > * [Premium] [Básico] [Inglés] [Udemy: Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/?siteID=vedj0cWlu2Y-y7Y297koEJ0uwM4mFVgkkQ&LSNPUBID=vedj0cWlu2Y)
 
+> ### En C++
+
+> * [Free] [Básico] [Inglés] [Udemy: Machine Learning with C++](https://www.udemy.com/machine-learning-with-c/)
+
 ## Libros
 > * Deep Learning: http://www.deeplearningbook.org/
 > * ESL: http://statweb.stanford.edu/~tibs/ElemStatLearn/
