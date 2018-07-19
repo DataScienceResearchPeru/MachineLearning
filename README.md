@@ -8,15 +8,17 @@ Este repositorio contiene un listado de hipervínculos asociados a plataformas d
 
 Queremos ofrecer un sitio donde se encuentren actualizados los recursos donde podamos conocer más acerca de Machine Learning. De esta manera generamos una curva de aprendizaje más corta. Así mismo, este repositorio sirve como un medio de motivación para quienes no conocen y tampoco saben por dónde empezar.
 
+
+
 ## Contribuciones
 Todas las personas se encuentran invitadas a agregar nuevos links de sitios donde podamos aprender más acerca de este tema. Entre más recursos tengamos y actualizados tengamos los links, mejor.
 
 # Listado
 ## Cursos
 ### Basicos
-* Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
-* Coursera: https://www.coursera.org/learn/machine-learning
-* Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+> * Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
+> * Coursera: https://www.coursera.org/learn/machine-learning
+> * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 * Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
 * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
 * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
