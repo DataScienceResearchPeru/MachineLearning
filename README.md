@@ -19,13 +19,13 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 > * Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
 > * Coursera: https://www.coursera.org/learn/machine-learning
 > * Oxford: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-* Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
-* PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
-* Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
-* Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
-* SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
-* Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
-* Google: https://developers.google.com/machine-learning/crash-course/ml-intro 
+> * Caltech: https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
+> * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
+> * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
+> * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
+> * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
+> * Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
+> * Google: https://developers.google.com/machine-learning/crash-course/ml-intro 
 
 ### Avanzados
 * Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
