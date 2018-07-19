@@ -35,13 +35,17 @@
 > * [Free] [Básico] [Inglés] [Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 > * [Free] [Básico] [Inglés] [Caltech: Learning From Data (Introductory Machine Learnig](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 > * [Free] [Básico] [Inglés] [PythonProgramming: Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorials/)
-> * [Free] [Básico] [Español] [Google: Introducción al aprendizaje automático](https://developers.google.com/machine-learning/crash-course/ml-intro)
 > * [Free] [Básico] [Inglés] [Scikit Learn: Introduction to machine learning](http://scikit-learn.org/stable/tutorial/index.html)
+> * [Free] [Básico] [Español] [Google: Introducción al aprendizaje automático](https://developers.google.com/machine-learning/crash-course/ml-intro)
 > * [Premium] [Básico] [Español] [Platzi: Curso de Introducción a Machine Learning](https://platzi.com/clases/ia/)
 > * [Premium] [Básico] [Español] [Platzi: Curso de Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/)
 
+> #### En R
 
-> * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
+> * [Free] [Básico] [Inglés] [Microsoft: Principles of Machine Learning: R Edition](https://www.edx.org/es/course/principles-of-machine-learning-r-edition)
+> * [Free] [Básico] [Inglés] [DataCamp: Machine Learning in R for begineers](https://www.datacamp.com/community/tutorials/machine-learning-in-r)
+> * [Premium] [Básico] [Inglés] [Udemy: Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+> * [Premium] [Básico] [Inglés] [Udemy: Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/?siteID=vedj0cWlu2Y-y7Y297koEJ0uwM4mFVgkkQ&LSNPUBID=vedj0cWlu2Y)
 
 ### Avanzados
 > * Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
