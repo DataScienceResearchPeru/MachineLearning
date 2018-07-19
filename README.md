@@ -25,7 +25,7 @@
 ### Basicos
 > #### En Python
 
-[www.xd.com](xd)
+[easy](www.xd.com)
 > * Udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
 > * EdX: 
 > * Coursera: https://www.coursera.org/learn/machine-learning
