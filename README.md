@@ -21,9 +21,9 @@
 > Muchas ganas de aprender
 
 > Lenguajes de programación: 
->> - Python
->> - R
->> - C++
+> - Python
+> - R
+> - C++
 
 # Listado
 ## Cursos
