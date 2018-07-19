@@ -20,6 +20,11 @@
 
 > Muchas ganas de aprender
 
+> Lenguajes de programación: 
+>> - Python
+>> - R
+>> - C++
+
 # Listado
 ## Cursos
 ### Basicos
@@ -30,11 +35,13 @@
 > * [Free] [Básico] [Inglés] [Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 > * [Free] [Básico] [Inglés] [Caltech: Learning From Data (Introductory Machine Learnig](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 > * [Free] [Básico] [Inglés] [PythonProgramming: Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorials/)
+> * [Free] [Básico] [Español] [Google: Introducción al aprendizaje automático](https://developers.google.com/machine-learning/crash-course/ml-intro)
+> * [Free] [Básico] [Inglés] [Scikit Learn: Introduction to machine learning](http://scikit-learn.org/stable/tutorial/index.html)
+> * [Premium] [Básico] [Español] [Platzi: Curso de Introducción a Machine Learning](https://platzi.com/clases/ia/)
+> * [Premium] [Básico] [Español] [Platzi: Curso de Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/)
+
+
 > * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
-> * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
-> * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
-> * Platzi: https://platzi.com/cursos/ia/, https://platzi.com/cursos/scikit/
-> * Google: https://developers.google.com/machine-learning/crash-course/ml-intro 
 
 ### Avanzados
 > * Deep Learning Especialization: https://www.coursera.org/specializations/deep-learning
