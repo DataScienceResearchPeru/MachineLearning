@@ -1,6 +1,6 @@
-# MachineLearning
+# MACHINE LEARNING
 
-### La comunidad de Data Science Research Perú hemos elaborado un índice para poder aprender Machine Learning de manera autodidacta desde el nivel básico hasta nivel avanzado
+### La comunidad de Data Science Research Perú ha elaborado un índice para poder aprender Machine Learning de manera autodidacta desde el nivel básico hasta nivel avanzado en diferentes lenguajes de programación.
 
 > Este repositorio contiene un listado de hipervínculos asociados a plataformas que presentan cursos MOOC. Estos cursos están divididos.
 
@@ -15,11 +15,9 @@
 ## Conocimientos previos
 
 > Inglés: Necesitas saber este idioma o en su defecto deberás usar subtítulos si la plataforma te lo permite.
-
 > Estadística: Necesitas tener conceptos muy básicos, igual lo explicarán.
 
 > Muchas ganas de aprender
-
 > Lenguajes de programación: 
 > - Python
 > - R
