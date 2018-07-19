@@ -28,7 +28,7 @@
 # Listado
 ## Cursos
 ### Basicos
-> #### En Python
+> ### En Python
 > * [Free] [Básico] [Inglés] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 > * [Free] [Básico] [Inglés] [EdX: Machine Learning Fundamentals](https://www.edx.org/es/course/machine-learning-fundamentals)
 > * [Free] [Básico] [Inglés] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -40,7 +40,7 @@
 > * [Premium] [Básico] [Español] [Platzi: Curso de Introducción a Machine Learning](https://platzi.com/clases/ia/)
 > * [Premium] [Básico] [Español] [Platzi: Curso de Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/)
 
-> #### En R
+> ### En R
 
 > * [Free] [Básico] [Inglés] [Microsoft: Principles of Machine Learning: R Edition](https://www.edx.org/es/course/principles-of-machine-learning-r-edition)
 > * [Free] [Básico] [Inglés] [DataCamp: Machine Learning in R for begineers](https://www.datacamp.com/community/tutorials/machine-learning-in-r)
