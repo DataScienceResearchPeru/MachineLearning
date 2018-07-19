@@ -29,7 +29,7 @@
 > * [Free] [Básico] [Inglés] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 > * [Free] [Básico] [Inglés] [Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 > * [Free] [Básico] [Inglés] [Caltech: Learning From Data (Introductory Machine Learnig](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
-> * PythonProgramming: https://pythonprogramming.net/machine-learning-tutorials/
+> * [Free] [Básico] [Inglés] [PythonProgramming: Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorials/)
 > * Python (Advanced Features): https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features
 > * Scala: https://tech.io/playgrounds/270/functional-programming-explained-to-my-grandma/
 > * SciKit-learn: http://scikit-learn.org/stable/tutorial/index.html 
