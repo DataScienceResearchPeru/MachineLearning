@@ -1,12 +1,12 @@
 # MachineLearning
 
-## La comunidad de Data Science Research Perú hemos elaborado un índice para poder aprender Machine Learning de manera autodidacta desde el nivel básico hasta nivel avanzado
+### La comunidad de Data Science Research Perú hemos elaborado un índice para poder aprender Machine Learning de manera autodidacta desde el nivel básico hasta nivel avanzado
 
-> Este repositorio contiene un listado de hipervínculos asociados a plataformas donde pueden aprender de Machine Learning. 
+> Este repositorio contiene un listado de hipervínculos asociados a plataformas que presentan cursos MOOC. Estos cursos están divididos.
 
 ## Motivación
 
-> Queremos ofrecer un sitio donde se encuentren actualizados los recursos donde podamos conocer más acerca de Machine Learning. De esta manera generamos una curva de aprendizaje más corta. Así mismo, este repositorio sirve como un medio de motivación para quienes no conocen y tampoco saben por dónde empezar.
+> Queremos ofrecer un sitio donde se encuentren actualizados los recursos donde podamos aprender Machine Learning. De esta manera generamos una curva de aprendizaje más corta. Así mismo, este repositorio sirve como un medio de motivación para quienes no conocen y tampoco saben por dónde empezar.
 
 ## Contribuciones
 
@@ -14,8 +14,11 @@
 
 ## Conocimientos previos
 
+> Inglés: Necesitas saber este idioma o en su defecto deberás usar subtítulos si la plataforma te lo permite.
 
+> Estadística: Necesitas tener conceptos muy básicos, igual lo explicarán.
 
+> Muchas ganas de aprender
 
 # Listado
 ## Cursos
