@@ -25,7 +25,7 @@
 ### Basicos
 > #### En Python
 > * [Free] [Básico] [Inglés] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-> * [Free] [Básico] [Inglés] [EdX: Machine Learning Fundamentals](hhttps://www.edx.org/es/course/machine-learning-fundamentals)
+> * [Free] [Básico] [Inglés] [EdX: Machine Learning Fundamentals](https://www.edx.org/es/course/machine-learning-fundamentals)
 > * [Free] [Básico] [Inglés] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 > * [Free] [Básico] [Inglés] [Oxford: Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 > * [Free] [Básico] [Inglés] [Caltech: Learning From Data (Introductory Machine Learnig](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
